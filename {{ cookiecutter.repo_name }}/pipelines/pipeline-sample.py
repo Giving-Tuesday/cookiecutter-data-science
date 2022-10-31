@@ -11,7 +11,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC This following allows you to make changes to the repo and immediately run them with detaching and re-attaching the notebook to the cluster. You still have to "reimport" the functions which you have changed, so its recommended you import the functions where you call them
+# MAGIC This following allows you to make changes to the repo and immediately run them without detaching and re-attaching the notebook to the cluster. You still have to "reimport" the functions which you have changed, so its recommended you import the functions where you call them
 
 # COMMAND ----------
 
